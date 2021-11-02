@@ -1,6 +1,6 @@
-# Data-Analysis-Project_1
+# BL_Flicker_Images_Dataset
 
-BL_Flicker_Images_Dataset
+
 
 
 In this Project i have done Analysis and Data cleaning using Python libraries Pandas and NumPy :-
